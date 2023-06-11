@@ -1,6 +1,6 @@
 {
-    "name": "runner",
-    "short_name": "runner",
+    "name": "airbnb_passport",
+    "short_name": "airbnb_passport",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
